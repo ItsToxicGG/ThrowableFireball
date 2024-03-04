@@ -1,2 +1,2 @@
 # ThrowableFireball
-Advance Throwable Sword
+Advance Throwable Fireball
