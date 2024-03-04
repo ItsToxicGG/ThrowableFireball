@@ -27,7 +27,7 @@ class Fireball extends Throwable{
         return new EntitySizeInfo(0.50, 0.50);
     }
 
-    protected float $gravity = 0.05;
+    protected float $gravity = 0.0005;
 
     protected float $drag = 0.0;
     
