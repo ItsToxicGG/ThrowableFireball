@@ -5,4 +5,5 @@ branches:
 projects:
   ThrowableFireball:
     path: ""
+    icon: "icon.png"
 ...
