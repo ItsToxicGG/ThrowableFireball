@@ -1,0 +1,6 @@
+name: ThrowableFireball
+description: Have an throwable fireball
+version: 1.0.0
+author: ItsToxic
+main: ItsToxic\ThrowableFireball
+api: 5.0.0
